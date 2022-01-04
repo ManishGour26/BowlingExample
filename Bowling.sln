@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling", "Bowling\Bowling.csproj", "{59948822-5B73-4101-AD2F-244A7F311FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingFixtures", "BowlingFixtures\BowlingFixtures.csproj", "{EDE44898-C73A-44FC-AF9A-89B0221E0553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59948822-5B73-4101-AD2F-244A7F311FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59948822-5B73-4101-AD2F-244A7F311FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59948822-5B73-4101-AD2F-244A7F311FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59948822-5B73-4101-AD2F-244A7F311FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE44898-C73A-44FC-AF9A-89B0221E0553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE44898-C73A-44FC-AF9A-89B0221E0553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE44898-C73A-44FC-AF9A-89B0221E0553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE44898-C73A-44FC-AF9A-89B0221E0553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
